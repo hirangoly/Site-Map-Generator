@@ -1,0 +1,70 @@
+<data>	
+	<entry>
+		<id>0020165312</id>
+		<link href="http://www.ae.com/web/browse/product.jsp?catId=cat6540022&amp;productId=0419_2937_267" />
+		<summary>Soft faux suede, Bold animal print, Pointed toe, Rubber outsole</summary>
+		<title>AEO Women's Animal Print Pointed Toe Flat (Leopard)</title>
+		<updated>2013-11-20T12:47:10Z</updated>
+		<brand>American Eagle Outfitters</brand>
+		<color>Leopard</color>
+		<material>textile</material>
+		<condition>new</condition>
+		<gtin>400201653126</gtin>
+		<image_link>http://pics.ae.com/is/image/aeo/0419_2937_267_f?$qv-450$</image_link>
+		<mpn>0419-2937-267-0050</mpn>
+		<product_review_average>3.20</product_review_average>
+		<google_product_category>Apparel &amp; Accessories &gt; Clothing</google_product_category>
+		<product_type>American Eagle Outfitters &gt; Women &gt; Categories &gt; Shoes</product_type>
+		<size>5</size>
+		<gender>female</gender>
+		<age_group>adult</age_group>
+		<item_group_id>0419_2937</item_group_id>
+		<price>34.95 USD</price>
+		<availability>in stock</availability>
+		<adwords_grouping>cat6540022</adwords_grouping>
+		<feed_provider type="string">American Eagle Outfitters</feed_provider>
+		<age_range type="string">15 years - 99 years</age_range>
+		<model_number type="string">2937</model_number>
+		<googleaffiliatenetworkpublish type="string">Y</googleaffiliatenetworkpublish>
+		<googleaffiliatenetworkproducturl type="string">http://www.ae.com/web/browse/product.jsp?catId=cat6540022&amp;productId=0419_2937_267</googleaffiliatenetworkproducturl>
+		<googleaffiliatenetworkcategoryid type="string">American Eagle Outfitters</googleaffiliatenetworkcategoryid>
+		<GANThumbnailImage type="string">Animal Print Pointed Toe Flat</GANThumbnailImage>
+		<choice1 type="string">Leopard</choice1>
+	</entry>
+	<entry>
+		<id>0020512703</id>
+		<link href="http://www.ae.com/web/browse/product.jsp?catId=cat20108&amp;productId=0435_8261_827" />
+		<summary>Soft stretch cotton denim, Mid 9" front rise, Higher 13.75" back rise, Straight thru entire leg, Straight 13.75" leg opening, Light vintage wash, Whiskering and fading, Extended lengths at AE.com</summary>
+		<title>AEO Women's Straight Jean (Bright Light)</title>
+		<updated>2013-11-20T12:47:10Z</updated>
+		<brand>American Eagle Outfitters</brand>
+		<color>Bright Light</color>
+		<material>cotton/spandex</material>
+		<condition>new</condition>
+		<gtin>400205127036</gtin>
+		<image_link>http://pics.ae.com/is/image/aeo/0435_8261_827_f?$qv-450$</image_link>
+		<mpn>0435-8261-827-8002</mpn>
+		<product_review_average>4.11</product_review_average>
+		<google_product_category>Apparel &amp; Accessories &gt; Clothing &gt; Pants &gt; Jeans</google_product_category>
+		<product_type>American Eagle Outfitters &gt; Women &gt; Categories &gt; Bottoms &gt; Jeans &gt; Straight</product_type>
+		<size>2 Regular</size>
+		<gender>female</gender>
+		<age_group>adult</age_group>
+		<item_group_id>0435_8261</item_group_id>
+		<price>39.95 USD</price>
+		<availability>in stock</availability>
+		<shipping>
+			<service>Standard</service>
+			<price>7.00</price>
+		</shipping>
+		<adwords_grouping>cat20108</adwords_grouping>
+		<feed_provider type="string">American Eagle Outfitters</feed_provider>
+		<age_range type="string">15 years - 99 years</age_range>
+		<model_number type="string">8261</model_number>
+		<googleaffiliatenetworkpublish type="string">Y</googleaffiliatenetworkpublish>
+		<googleaffiliatenetworkproducturl type="string">http://www.ae.com/web/browse/product.jsp?catId=cat20108&amp;productId=0435_8261_827</googleaffiliatenetworkproducturl>
+		<googleaffiliatenetworkcategoryid type="string">American Eagle Outfitters</googleaffiliatenetworkcategoryid>
+		<GANThumbnailImage type="string">Straight Jean</GANThumbnailImage>
+		<choice1 type="string">Bright Light</choice1>
+	</entry>
+	</data>
